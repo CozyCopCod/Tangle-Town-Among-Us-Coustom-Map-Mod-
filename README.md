@@ -29,3 +29,8 @@ fully functional cams!
 
 ![Screenshot 2021-06-05 203145](https://user-images.githubusercontent.com/85246582/120896117-b6604800-c63d-11eb-9266-692c444710fc.png)
 
+# Installation Guide 
+
+you have can only use winrar to extract the .rar file you can download winrar from here : https://www.win-rar.com/start.html?&L=0
+
+next u need to find ur main game directery for among us for that go to among us on steam and click on it , click on browse local files 
