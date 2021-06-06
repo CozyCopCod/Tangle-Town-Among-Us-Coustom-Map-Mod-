@@ -3,7 +3,7 @@
 
 this is one on then and my first ever perfect map and its a mini map fot only 5 - 7 but you can play upto 10 players!
 
-its only now available for among us version v2021.4.14 and supporter whith steam, epic games and itch.io versions of the game , only pc supported for now and android support not yet planed.
+its only now available for among us version v2021.4.14 and supported whith steam, epic games and itch.io versions of the game , only pc supported for now and android support not yet planed.
 
 there are some pics for a sneek peek of the map :- 
 
