@@ -50,9 +50,13 @@ enjoy the new coustom map , its still has a few bugs but will be fixed in furthe
 # Credits 
 
 BelpnX - its the modding frame work for among us , ind it here = https://github.com/NuclearPowered/BepInEx/releases
+
 Reactor - its the modding API for among us , find it here = https://nightly.link/NuclearPowered/Reactor/workflows/main/master
+
 Level Imposter - its the map frame work for among us , find it here = https://levelimposter.net/
+
 Map Design - check the maker out here -https://imgur.com/gallery/SC1kB
+
 Map Maker - me my self and yes go cheack out my channel and plz subscribe = https://www.youtube.com/channel/UC2OXwadfmVRO8-vBIyj43zw/featured
 
 and this mod follows innersloths modding policies - https://innersloth.com/modpolicy.php
